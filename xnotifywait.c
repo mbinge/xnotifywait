@@ -1,15 +1,12 @@
 /*
  * xnotifywait.c
  *
- * Copyright (c) 2008 Amit Singh (osxbook.com).
- * http://osxbook.com/software/xnotifywait/
+ * Copyright (c) 2013 binge@live.com.
  *
  * Source released under the GNU GENERAL PUBLIC LICENSE (GPL) Version 2.0.
  * See http://www.gnu.org/licenses/old-licenses/gpl-2.0.txt for details.
  *
- * Compile (Mac OS X 10.5.x only) as follows:
- *
- * gcc -I/path/to/xnu/bsd -Wall -o xnotifywait xnotifywait.c
+ * Compile (Mac OS X 10.8.x only)
  *
  */
 
